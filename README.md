@@ -7,7 +7,7 @@
 
 <p><a href="https://github.com/vladimir-vova/Excel/tree/main/Диаграммы">Диаграммы</a></p>
 <details>
-  <summary>Диаграммы</summary>
+  <summary>Детали</summary>
   <ul>
     <li>Гистограммы</li>
     <li>График</li>
