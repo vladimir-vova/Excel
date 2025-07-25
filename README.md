@@ -5,6 +5,14 @@
 
 <h2>📂 Структура проекта</h2>
 
+<p><a href="https://github.com/vladimir-vova/Excel/tree/main/Диаграммы">Анализ данных</a></p>
+<details>
+  <summary>Детали</summary>
+  <ul>
+    <li>Анализ продаж (<a href="https://github.com/vladimir-vova/analystData/tree/main/Анализ%20продаж">Ноутбук</a>)</li>
+  </ul>
+</details>
+
 <p><a href="https://github.com/vladimir-vova/Excel/tree/main/Диаграммы">Диаграммы</a></p>
 <details>
   <summary>Детали</summary>
@@ -17,8 +25,6 @@
     <li>Спарклайны</li>
   </ul>
 </details>
-
-
 
 <br><h2>📜 Лицензия</h2><br>
 Этот проект распространяется под лицензией MIT.<br>
